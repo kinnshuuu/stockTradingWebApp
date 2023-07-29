@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 const Dashboard = () => {
   return (
     <div>
       <h2>Dashboard</h2>
-      {/* Your dashboard content goes here */}
+      <h3>For testing purpose</h3>
     </div>
   );
 };
